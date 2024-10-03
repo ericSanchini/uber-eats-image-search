@@ -1,0 +1,22 @@
+Tue Oct  1 11:18:48 2024: Failed to download image. Status code: 404
+Tue Oct  1 11:18:48 2024: Failed to save image for product: Original Belgian Wheat Beer
+Tue Oct  1 11:21:16 2024: Failed to download image. Status code: 403
+Tue Oct  1 11:21:16 2024: Failed to save image for product: CHICKEN SALAD WRAP
+Tue Oct  1 11:24:21 2024: Error downloading image from http://fruitworld.co.nz/cdn/shop/products/nectarinesyellow_3f5ab35a-3349-40b8-8d7d-0db04e511906_1200x1200.jpg?v=1678743059: HTTPConnectionPool(host='fruitworld.co.nz', port=80): Max retries exceeded with url: /cdn/shop/products/nectarinesyellow_3f5ab35a-3349-40b8-8d7d-0db04e511906_1200x1200.jpg?v=1678743059 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001EF0620A1B0>: Failed to resolve 'fruitworld.co.nz' ([Errno 11001] getaddrinfo failed)"))
+Tue Oct  1 11:24:21 2024: Failed to save image for product: Nectarine Yellow Large
+Tue Oct  1 11:24:56 2024: Failed to download image. Status code: 403
+Tue Oct  1 11:24:56 2024: Failed to save image for product: Van Leeuwen Premium French Ice Cream (Cookies & Cream)
+Tue Oct  1 11:25:44 2024: Error downloading image from https://www.veterinariadigital.com/wp-content/uploads/2012/10/Oxidation-of-fats-in-chicken-meat-for-human-consumption-and-its-prevention.jpg: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Tue Oct  1 11:25:44 2024: Failed to save image for product: All Natural WM Chicken Breast Bone
+Tue Oct  1 11:26:05 2024: Failed to download image. Status code: 403
+Tue Oct  1 11:26:05 2024: Failed to save image for product: Cal-Organic Farms Peeled Baby Carrots
+Tue Oct  1 11:26:59 2024: Failed to download image. Status code: 406
+Tue Oct  1 11:26:59 2024: Failed to save image for product: Flatout Light Original Flatbread Wraps
+Tue Oct  1 11:33:38 2024: Failed to download image. Status code: 403
+Tue Oct  1 11:33:38 2024: Failed to save image for product: Broccoli
+Tue Oct  1 11:33:45 2024: Failed to download image. Status code: 403
+Tue Oct  1 11:33:45 2024: Failed to save image for product: Lettuce Red Leaf
+Tue Oct  1 11:33:50 2024: No image found for query: Modenaceti Organic Balsamic Vinegar Of Modena (16.9 fl oz, 6% ABV) Vinegar product image
+Tue Oct  1 11:33:50 2024: No image URL found for product: Modenaceti Organic Balsamic Vinegar Of Modena (16.9 fl oz, 6% ABV)
+Thu Oct  3 16:36:29 2024: Failed to download image. Status code: 404
+Thu Oct  3 16:36:29 2024: Failed to save image for product: Original Belgian Wheat Beer
